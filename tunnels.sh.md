@@ -25,6 +25,15 @@ This will SSH into destination.com and tunnel all of your traffic through destin
 
 Local port forwarding, `-L`
 
+If you're on a network that censors incoming data:
+
+* School networks blocking facebook
+* BBC blocking non-UK users
+
+you can tunnel all traffic through a destination in the UK, so it looks like the only services you're using are from destination-in-the.uk.co.
+
+    ssh -L 8085:bbc.co.uk:80 user@destination-in-the.uk.co
+
 ## Access the Inside
 
 Remote port forwarding, `-R`
