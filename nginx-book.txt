@@ -1,0 +1,8 @@
+nginx book
+
+- title: ntentional nginx
+- toc:
+  - installation
+  - hello world
+  - reverse proxy
+  - load balancer
