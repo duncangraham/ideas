@@ -1,0 +1,6 @@
+p9e - performance analytics
+
+- uploads window.performance
+- buckets are domain specific
+- analytics breakdown by page
+- no. visits / time

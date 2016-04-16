@@ -1,0 +1,5 @@
+Updog
+
+- email newsletter mailchimp
+- some sort of paid pricing
+- analytics on created sites
